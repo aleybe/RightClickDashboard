@@ -1,0 +1,17 @@
+POST formatting
+
+{
+	"TableName": "rcd_click",
+	"Item":
+	{
+		  "clickid": {
+		    "N": "2"
+		},
+		  "time": {
+		    "S": "12:33:44 12/10/2018"
+		},
+		  "button": {
+		    "S": "right"
+		}
+	}
+}
